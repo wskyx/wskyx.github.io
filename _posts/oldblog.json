@@ -1,0 +1,8 @@
+{
+  "date": "2023-10-03T15:00:00.000Z",
+  "excerpt": "The old blog is at https://vlepy.github.io",
+  "html": "<p><a href=https://vlepy.github.io><font size=20>https://vlepy.github.io</font></a></p>\n",
+  "layout": "default.njk",
+  "tags": ["meta","post"],
+  "title": "New blog and the old blog"
+}
