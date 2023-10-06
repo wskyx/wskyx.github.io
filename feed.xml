@@ -109,15 +109,15 @@ Like never before&lt;/p&gt;
 		p { margin-bottom: 0.25cm; line-height: 120%; background: transparent }
 	&lt;/style&gt;
 &lt;/head&gt;
-&lt;body lang=&quot;pl-PL&quot; link=&quot;#000080&quot; vlink=&quot;#800000&quot; dir=&quot;ltr&quot;&gt;&lt;p style=&quot;line-height: 100%; margin-bottom: 0cm; text-decoration: none&quot;&gt;
-&lt;/p&gt;&lt;p&gt;&lt;font color=&quot;#cfcfcf&quot;&gt;&lt;font face=&quot;HelveticaNeue, serif&quot;&gt;&lt;font size=&quot;2&quot; style=&quot;font-size: 11pt&quot;&gt;Mirosław
-Leśniak&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;
+&lt;body lang=&quot;pl-PL&quot; link=&quot;#000080&quot; vlink=&quot;#800000&quot; dir=&quot;ltr&quot;&gt;&lt;p align=&quot;center&quot; style=&quot;line-height: 100%; margin-bottom: 0cm; text-decoration: none&quot;&gt;
+&lt;font color=&quot;#cfcfcf&quot;&gt;&lt;font face=&quot;HelveticaNeue, serif&quot;&gt;&lt;font size=&quot;2&quot; style=&quot;font-size: 11pt&quot;&gt;Mirosław
+Leśniak&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;
 &lt;p align=&quot;center&quot; style=&quot;line-height: 100%; margin-bottom: 0cm; text-decoration: none&quot;&gt;
 &lt;font color=&quot;#cfcfcf&quot;&gt;&lt;font face=&quot;HelveticaNeue, serif&quot;&gt;&lt;font size=&quot;2&quot; style=&quot;font-size: 11pt&quot;&gt;New
 World RPG scemnario&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p style=&quot;line-height: 100%; margin-bottom: 0cm; text-decoration: none&quot;&gt;
-&lt;br&gt;
+&lt;p align=&quot;center&quot; style=&quot;line-height: 100%; margin-bottom: 0cm&quot;&gt;&lt;br&gt;
+&lt;/p&gt;
+&lt;p align=&quot;center&quot; style=&quot;line-height: 100%; margin-bottom: 0cm&quot;&gt;&lt;br&gt;
 &lt;/p&gt;
 &lt;p align=&quot;center&quot; style=&quot;line-height: 100%; margin-bottom: 0cm&quot;&gt;&lt;font color=&quot;#cfcfcf&quot;&gt;&lt;font face=&quot;HelveticaNeue, serif&quot;&gt;&lt;font size=&quot;2&quot; style=&quot;font-size: 11pt&quot;&gt;&lt;span style=&quot;text-decoration: none&quot;&gt;New
 Beginning&lt;/span&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;
@@ -185,7 +185,7 @@ of Tix.&lt;/span&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;
 &lt;br&gt;
 &lt;/p&gt;
 &lt;p style=&quot;line-height: 100%; margin-bottom: 0cm&quot;&gt;&lt;font color=&quot;#cfcfcf&quot;&gt;&lt;font face=&quot;HelveticaNeue, serif&quot;&gt;&lt;font size=&quot;2&quot; style=&quot;font-size: 11pt&quot;&gt;&lt;span style=&quot;text-decoration: none&quot;&gt;	He
-offers a humanoid, armored, punching robot fro lend for 20
+offers a humanoid, armored, punching humanoid robot fro lend for 20
 tix, a small, wheeled scout robot for 20 tix + 20tix if armed with a
 c4 bomb it can plant or detonate and a track based cargo robot for 20
 tix. If a robot wont be returned that’s extra 20 tix penalty.&lt;/span&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;
@@ -325,6 +325,18 @@ communication device he says „let them out but don’t give their
 equipment back”. Then he quickly gets back to the building of his. &lt;/span&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;
 &lt;/p&gt;
 &lt;p style=&quot;line-height: 100%; margin-bottom: 0cm; text-decoration: none&quot;&gt;
+&lt;br&gt;
+&lt;/p&gt;
+&lt;p align=&quot;center&quot; style=&quot;line-height: 100%; margin-bottom: 0cm; text-decoration: none&quot;&gt;
+&lt;br&gt;
+&lt;/p&gt;
+&lt;p align=&quot;center&quot; style=&quot;line-height: 100%; margin-bottom: 0cm; text-decoration: none&quot;&gt;
+&lt;br&gt;
+&lt;/p&gt;
+&lt;p align=&quot;center&quot; style=&quot;line-height: 100%; margin-bottom: 0cm; text-decoration: none&quot;&gt;
+&lt;br&gt;
+&lt;/p&gt;
+&lt;p align=&quot;center&quot; style=&quot;line-height: 100%; margin-bottom: 0cm; text-decoration: none&quot;&gt;
 &lt;br&gt;
 &lt;/p&gt;
 &lt;p align=&quot;center&quot; style=&quot;line-height: 100%; margin-bottom: 0cm&quot;&gt;&lt;font color=&quot;#cfcfcf&quot;&gt;&lt;font face=&quot;HelveticaNeue, serif&quot;&gt;&lt;font size=&quot;2&quot; style=&quot;font-size: 11pt&quot;&gt;&lt;span style=&quot;text-decoration: none&quot;&gt;Zenith&lt;/span&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;
