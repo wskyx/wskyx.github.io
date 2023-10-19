@@ -1,7 +1,7 @@
 {
   "date": "2023-10-19T21:44:00.000Z",
   "excerpt": "Poetry again",
-  "html": "<p>When rain drops<br>\nThe winds blow<br>\nWhen blizzard strikes<br>\nOr heat is upon us<br>\nBirds chirp, cows moo<br>\nDogs bark<br>\nAnd cars vroom around<br>\nNo one wants lonely people</p>\n",
+  "html": "<p>When rain drops<br>\nThe winds blow<br>\nWhen blizzard strikes<br>\nOr heat is upon us<br>\nBirds chirp, cows moo<br>\nDogs bark ...<br>\nAnd cars vroom around<br>\nNo one wants lonely people</p>\n",
   "layout": "default.njk",
   "tags": ["meta","post"],
   "title": "Night rains"
