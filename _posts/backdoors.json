@@ -1,0 +1,8 @@
+{
+  "date": "2023-11-08T10:15:00.000Z",
+  "excerpt": "An article",
+  "html": "<p>I think people should be more aware about backdoor problem in modern era. I am among hackers for at least 15 years now, we find knowledge about backdoors common. From time to time, trough industry media there are going large and bigger affairs exposing backdoors in often crucial, secure software and hardware components of digital devices. At the same time people rely more and more on the electronic devices and keep crucial information on those devices, unaware of the danger. What’s different than 15 years ago is the scale of the problem. For me it started with the infamous OpenBSD IPSec backdoor. That made me aware backdoors in open source projects happen. That changed my perception. Then large affairs like Heart Bleed or Spectre that exposed „bugs” that were really backdoors implemented by the manufacturers, patched afterwards because the industry pressure. I bet they implemented new backdoors afterwards. It depends who you are and what you do, not that much what software you pick, now day. Microsoft makes different keys for different sectors and countries changing slightly how Windows behaves. Linux and Apple betrays their users. Android is a joke. Everything basically compromised. It seems that paper survived the test of the time.</p>\n",
+  "layout": "default.njk",
+  "tags": ["meta","post"],
+  "title": "Backdoors"
+}
