@@ -1,0 +1,8 @@
+{
+  "date": "2023-11-29T14:13:00.000Z",
+  "excerpt": "Another poem",
+  "html": "<p>Endless forests where the deer feed<br>\nLakes full of fish<br>\nPlains of flowers and bees<br>\nBirds flying in the sky<br>\nWinds moving the leaves<br>\nSilent grave of a damned soul<br>\nBathing in rains<br>\nSun above it all</p>\n",
+  "layout": "default.njk",
+  "tags": ["meta","post"],
+  "title": "Sun"
+}
