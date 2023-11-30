@@ -1,7 +1,7 @@
 {
   "date": "2023-11-30T13:14:00.000Z",
   "excerpt": "Afternoon poem",
-  "html": "<p>Like a lame dog<br>\nOn a wide meadow<br>\nNo one to ask for<br>\nA bowl of fodder<br>\nIn a winter night<br>\nAfter years of exile<br>\nI howl to the moon<br>\nShining on the sky</p>\n",
+  "html": "<p>Like a lame dog<br>\nOn a wide meadow<br>\nNo one to ask for<br>\nA bowl of fodder<br>\nIn a winter night<br>\nAfter years of exile<br>\nI howl to the moon<br>\nShining in the sky</p>\n",
   "layout": "default.njk",
   "tags": ["meta","post"],
   "title": "Shining"
