@@ -1,7 +1,7 @@
 {
   "date": "2023-11-30T15:46:00.000Z",
   "excerpt": "Another one",
-  "html": "<p>I’m sorry Rainbow<br>\nWe know it’s not day one<br>\nI’m sorry Flower<br>\nThis stuff just happens<br>\nSo I yell into void<br>\nAnd there is no echo<br>\nAbsolute emptiness<br>\nIt’s like I have to<br>\nActs full of shame<br>\nIs all I got<br>\nThey say it’s hell<br>\nFor what I done<br>\nI hurt myself<br>\nThis isn’t healthy<br>\nThat’s what I’ve learnt<br>\nSo I am faulty</p>\n",
+  "html": "<p>I’m sorry Rainbow<br>\nWe know it’s not day one<br>\nI’m sorry Flower<br>\nThis stuff just happens<br>\nSo I yell into void<br>\nAnd there is no echo<br>\nAbsolute emptiness<br>\nIt’s like I have to<br>\nActs full of shame<br>\nIs all I got<br>\nThey say it’s hell<br>\nFor just I done<br>\nI hurt myself<br>\nThis isn’t healthy<br>\nThat’s what I’ve learnt<br>\nSo I am faulty</p>\n",
   "layout": "default.njk",
   "tags": ["meta","post"],
   "title": "Faulty"
