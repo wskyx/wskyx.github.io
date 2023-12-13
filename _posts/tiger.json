@@ -1,7 +1,7 @@
 {
   "date": "2023-12-12T06:42:00.000Z",
   "excerpt": "Eastern philosophy",
-  "html": "<p>Once wise man said<br>\nSayonara<br>\nSensei!<br>\nSets me in zen state<br>\nLike a tiger<br>\nIm gonna make pictures<br>\nApply for a passport<br>\nGet on a plane<br></p>\n",
+  "html": "<p>Once wise man said<br>\nSayonara<br>\nSensei!<br>\nThis sets me in zen state<br>\nLike a tiger<br>\nIm gonna make pictures<br>\nApply for a passport<br>\nGet on a plane<br></p>\n",
   "layout": "default.njk",
   "tags": ["meta","post"],
   "title": "Tiger"
