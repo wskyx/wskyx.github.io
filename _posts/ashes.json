@@ -1,7 +1,7 @@
 {
   "date": "2023-12-16T20:30:00.000Z",
   "excerpt": "Just a lazy one",
-  "html": "<p>My soul demands<br>\nLiquid spirit<br>\nAnd gray ghost<br>\nSo i can consume my ashes<br>\nWalking dead<br>\nStanding wraith<br>\nIn the mirror<br>\nAn unknown alien</p>\n",
+  "html": "<p>My soul demands<br>\nLiquid spirit<br>\nAnd gray ghost<br>\nSo I can consume my ashes<br>\nWalking dead<br>\nStanding wraith<br>\nIn the mirror<br>\nAn unknown alien</p>\n",
   "layout": "default.njk",
   "tags": ["meta","post"],
   "title": "Ashes"
