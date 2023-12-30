@@ -1,7 +1,7 @@
 {
   "date": "2023-12-31T00:45:00.000Z",
   "excerpt": "Wiersz na ostatni dzień roku",
-  "html": "<p>Zbudujemy nowy dom<br>\nKłamstwami, przemocą i pieniędzmi<br>\nI będzie nasz<br>\nPełen wygodnych mebli<br>\nI zrobimy ubrania<br>\nWszyscy będziemy je nosić<br>\nKto nie, zostanie ukarany<br>\nSzerszeniami<br>\nI nikt nie zagra muzyki<br>\nDziewczyny zatańczą z byle kim<br>\nAle będzie duch<br>\nCałe jego rzeki<br>\nI każdy uwierzy<br>\nKto nie, skłamie<br>\nJak ludzie z silnikami spalinowymi<br>\nCzy elektrycznymi pojazdami</p>\n",
+  "html": "<p>Zbudujemy nowy dom<br>\nKłamstwami, przemocą i pieniędzmi<br>\nI będzie nasz<br>\nPełen wygodnych mebli<br>\nI zrobimy ubrania<br>\nWszyscy będziemy je nosić<br>\nKto nie, zostanie ukarany<br>\nSzerszeniami<br>\nI nikt nie zagra muzyki<br>\nDziewczyny nie zatańczą z byle kim<br>\nAle będzie duch<br>\nCałe jego rzeki<br>\nI każdy uwierzy<br>\nKto nie, skłamie<br>\nJak ludzie z silnikami spalinowymi<br>\nCzy elektrycznymi pojazdami</p>\n",
   "layout": "default.njk",
   "tags": ["meta","post"],
   "title": "(PL) Szerszenie"
