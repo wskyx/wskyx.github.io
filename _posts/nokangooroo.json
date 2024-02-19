@@ -1,7 +1,7 @@
 {
   "date": "2024-02-19T13:55:00.000Z",
   "excerpt": "Another poem",
-  "html": "<p>freezing cold<br>\nblinding dark<br>\nhardness of concrete<br>\nno way out<br>\nlove for the family<br>\nand love for the people<br>\ndeamons all around<br>\nvirtue of life<br>\njust like others<br>\nlimited by human mortality<br>\nplaying with fire<br>\nto warm us up<br>\ngetting burned<br>\nmy body... hurts<br>\nthere is no kangooroo<br>\ngoodbye</p>\n",
+  "html": "<p>freezing cold<br>\nblinding dark<br>\nhardness of concrete<br>\nno way out<br>\nlove for the family<br>\nand love for the people<br>\ndeamons all around<br>\nvirtue of life<br>\njust like others<br>\nlimited by human mortality<br>\nplaying with fire<br>\nto warm us up<br>\ngetting burned<br>\nthe body... hurts<br>\nthere is no kangooroo<br>\ngoodbye</p>\n",
   "layout": "default.njk",
   "tags": ["meta","post"],
   "title": "No Kangooroo"
