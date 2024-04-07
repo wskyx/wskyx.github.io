@@ -1,7 +1,7 @@
 {
   "date": "2024-04-05T16:38:00.000Z",
   "excerpt": "First poem of April",
-  "html": "<p>Walking through plains<br>\nSun above<br>\nWhite clouds ahead<br>\nHorizon ends the view<br>\nSlight zephyr<br>\nTouches skin<br>\nGoing nearby a brook<br>\nTo the village<br>\nWhere fresh bread<br>\nWill fill up<br>\nWhere a glass of wine<br>\nWill make happier<br>\nThen on the way<br>\nThrough the plains<br>\nWith sun above<br>\nAnd clouds ahead</p>\n",
+  "html": "<p>Walking through plains<br>\nSun above<br>\nWhite clouds ahead<br>\nHorizon ends the view<br>\nSlight zephyr<br>\nTouches skin<br>\nGoing nearby a brook<br>\nTo a village<br>\nWhere fresh bread<br>\nWill fill up<br>\nWhere a glass of wine<br>\nWill make happier<br>\nThen on the way<br>\nThrough the plains<br>\nWith sun above<br>\nAnd clouds ahead</p>\n",
   "layout": "default.njk",
   "tags": ["meta","post"],
   "title": "Plains"
