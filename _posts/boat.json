@@ -1,7 +1,7 @@
 {
   "date": "2024-05-02T14:00:00.000Z",
   "excerpt": "Looking for relief",
-  "html": "<p>Flat sea<br>\nNo tide at all<br>\nCloudless sky<br>\nPresents the sun<br>\nOur boat is sailing<br>\nBurning it’s fuel<br>\nVery soon<br>\nWe’ll be at port<br>\nOur feet get<br>\nOn stable land<br>\nHave a meal<br>\nDrink some wine<br>\nAnd when night comes<br>\nWe’ll have rest<br>\nUnder the moon<br>\nThat shines on the sky</p>\n",
+  "html": "<p>Flat sea<br>\nNo tide at all<br>\nCloudless sky<br>\nPresents the sun<br>\nOur boat is sailing<br>\nBurning it’s fuel<br>\nVery soon<br>\nWe’ll be at port<br>\nOur feet get<br>\nOn stable land<br>\nWe'll have a meal<br>\nDrink some wine<br>\nAnd when night comes<br>\nWe’ll have rest<br>\nUnder the moon<br>\nThat shines on the sky</p>\n",
   "layout": "default.njk",
   "tags": ["meta","post"],
   "title": "Boat"
