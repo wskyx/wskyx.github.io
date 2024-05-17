@@ -1,7 +1,7 @@
 {
   "date": "2024-05-17T16:38:00.000Z",
   "excerpt": "State of mind",
-  "html": "<p>A chapel in the mountains<br>\nIt’s where the stones fell<br>\nDuring a fog<br>\nCouple of people died<br>\nThe restaurant nearby<br>\nIs where there was a party<br>\nFew people remember it<br>\nIt was confusing<br>\nDrunk priest at a wedding<br>\nDanced on a desk<br>\nA lot of vodka was there<br>\nBut no one talks about it<br>\nA roasted pig was eaten<br>\nIn its entirety<br>\nWhen crows were peeking<br>\nTo the warm inside</p>\n",
+  "html": "<p>A chapel in the mountains<br>\nIt’s where the stones fell<br>\nDuring a fog<br>\nCouple of people died<br>\nThe restaurant nearby<br>\nIs where there was the party<br>\nFew people remember it<br>\nIt was confusing<br>\nDrunk priest at that wedding<br>\nDanced on a desk<br>\nA lot of vodka was there<br>\nBut no one talks about it<br>\nA roasted pig was eaten<br>\nIn its entirety<br>\nWhen crows were peeking<br>\nTo the warm inside</p>\n",
   "layout": "default.njk",
   "tags": ["meta","post"],
   "title": "Stones"
