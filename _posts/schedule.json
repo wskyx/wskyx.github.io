@@ -1,7 +1,7 @@
 {
   "date": "2024-06-25T16:28:00.000Z",
   "excerpt": "Another day",
-  "html": "<p>Coffee time soon<br>\nIt's part of the schedule<br>\nMany strictly execute<br>\nThis part of the schedule<br>\nPeople gather<br>\nTo have some coffee<br>\nNo one wants to<br>\nSkip this part of the schedule<br>\nIt’s a sort of<br>\nA ritual<br>\nA ritual many<br>\nWon’t ever skip<br>\nIt’s surrounded<br>\nBy small a culture<br>\nA culture<br>\nOf coffee drinking</p>\n",
+  "html": "<p>Coffee time soon<br>\nIt's part of the schedule<br>\nMany strictly execute<br>\nThis part of the schedule<br>\nPeople gather<br>\nTo have some coffee<br>\nNo one wants to<br>\nSkip this part of the schedule<br>\nIt’s a sort of<br>\nA ritual<br>\nA ritual many<br>\nWon’t ever skip<br>\nIt’s surrounded<br>\nBy a small culture<br>\nA culture<br>\nOf coffee drinking</p>\n",
   "layout": "default.njk",
   "tags": ["meta","post"],
   "title": "Schedule"
