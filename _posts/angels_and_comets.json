@@ -1,7 +1,7 @@
 {
   "date": "2024-09-01T11:57:00.000Z",
   "excerpt": "W przestrzeni",
-  "html": "<p>Slime on the floors<br>\nThe gravity is working<br>\nThe sun shines<br>\nKeeps the days bright<br>\nWater flows<br>\nThrough the circuits<br>\nAngels silently<br>\nHide in the clouds<br>\nComets pass by<br>\nThey sometimes say hello<br>\nAnd we can see them<br>\nBright in night sky<br>\nAnd we all move<br>\nConstantly and consequently<br>\nNo one asks us about it<br>\nIt just happens like that</p>\n",
+  "html": "<p>Slime on the floors<br>\nThe gravity is working<br>\nThe sun shines<br>\nKeeps the days bright<br>\nWater flows<br>\nThrough the circuits<br>\nAngels silently<br>\nHide in the clouds<br>\nComets pass by<br>\nSometime they say hello<br>\nAnd we can see them<br>\nBright in night sky<br>\nAnd we all move<br>\nConstantly<br>\nNo one asks about it<br>\nIt just is like that</p>\n",
   "layout": "default.njk",
   "tags": ["meta","post"],
   "title": "Angels and comets"
