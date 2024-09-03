@@ -1,7 +1,7 @@
 {
   "date": "2024-09-03T14:29:00.000Z",
   "excerpt": "And message",
-  "html": "<p>The sound of the trees<br>\nCaused by the wind<br>\nWind that carries also<br>\nMessages from distant lands<br>\nThe smell of the grass<br>\nWarmth of September<br>\nThe leafs already<br>\nKnow it is time<br>\nGraves of the people<br>\nFrom long time ago<br>\nMaybe one day<br>\nThey will be discovered<br>\nDiscovered like gems<br>\nThey were buried with<br>\nGems that matter<br>\nOnly when you look at them</p>\n",
+  "html": "<p>The sound of the trees<br>\nCaused by the wind<br>\nWind that carries also<br>\nMessages from distant lands<br>\nThe smell of the grass<br>\nWarmth of September<br>\nThe leafs already<br>\nKnow it is time<br>\nGraves of the people<br>\nFrom long time ago<br>\nMaybe one day<br>\nThey will be discovered<br>\nDiscovered like gems<br>\nThey were buried with<br>\nGems that matter only<br>\nWhen you know about them</p>\n",
   "layout": "default.njk",
   "tags": ["meta","post"],
   "title": "Warmth of September"
