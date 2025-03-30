@@ -1,0 +1,8 @@
+{
+  "date": "2025-03-30T16:47:00.000Z",
+  "excerpt": "A collage",
+  "html": "<a href=\"/assets/images/cat1.jpg\">\n  <img src=\"/assets/images/scaled_cat1.jpg\">\n</a>\n",
+  "layout": "default.njk",
+  "tags": ["meta","post"],
+  "title": "Cat one"
+}
