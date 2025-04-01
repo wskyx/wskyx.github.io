@@ -1,0 +1,8 @@
+{
+  "date": "2025-04-01T12:29:00.000Z",
+  "excerpt": "Trees",
+  "html": "<a href=\"/assets/images/lumi.jpg\">\n  <img src=\"/assets/images/scaled_lumi.jpg\">\n</a>\n",
+  "layout": "default.njk",
+  "tags": ["meta","post"],
+  "title": "Lumi"
+}
