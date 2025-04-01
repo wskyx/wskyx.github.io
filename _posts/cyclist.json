@@ -1,0 +1,8 @@
+{
+  "date": "2025-03-31T14:06:00.000Z",
+  "excerpt": "And abstract",
+  "html": "<a href=\"/assets/images/strawberry.jpg\">\n  <img src=\"/assets/images/scaled_strawberry.jpg\">\n</a>\n",
+  "layout": "default.njk",
+  "tags": ["meta","post"],
+  "title": "Mr Strawberry"
+}
