@@ -1,8 +1,8 @@
 {
-  "date": "2025-04-01T11:41:00.000Z",
-  "excerpt": "And colors",
-  "html": "<a href=\"/assets/images/cyclist.jpg\">\n  <img src=\"/assets/images/scaled_cyclist.jpg\">\n</a>\n",
+  "date": "2025-03-30T14:06:00.000Z",
+  "excerpt": "Abstractized",
+  "html": "<a href=\"/assets/images/cat1.jpg\">\n  <img src=\"/assets/images/scaled_cat1.jpg\">\n</a>\n",
   "layout": "default.njk",
   "tags": ["meta","post"],
-  "title": "A cyclist"
+  "title": "Cat one"
 }

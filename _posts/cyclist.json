@@ -1,8 +1,8 @@
 {
-  "date": "2025-03-31T14:06:00.000Z",
-  "excerpt": "And abstract",
-  "html": "<a href=\"/assets/images/strawberry.jpg\">\n  <img src=\"/assets/images/scaled_strawberry.jpg\">\n</a>\n",
+  "date": "2025-04-01T11:41:00.000Z",
+  "excerpt": "And colors",
+  "html": "<a href=\"/assets/images/cyclist.jpg\">\n  <img src=\"/assets/images/scaled_cyclist.jpg\">\n</a>\n",
   "layout": "default.njk",
   "tags": ["meta","post"],
-  "title": "Mr Strawberry"
+  "title": "A cyclist"
 }
