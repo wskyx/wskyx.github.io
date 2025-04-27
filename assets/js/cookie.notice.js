@@ -54,7 +54,7 @@
         fontFamily: 'inherit',
         fontSize: '12px',
 
-        buttonBgColor: '#ca5000',
+        buttonBgColor: '#ff1c3c',
         buttonTextColor: '#fff',
         noticeBgColor: '#000',
         noticeTextColor: '#fff',
