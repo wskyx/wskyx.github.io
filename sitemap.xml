@@ -454,7 +454,6 @@
     <url><loc>https://wskyx.github.io/about/</loc></url>
     <url><loc>https://wskyx.github.io/</loc></url>
     <url><loc>https://wskyx.github.io/search/</loc></url>
-    <url><loc>https://wskyx.github.io/404.html</loc></url>
     <url><loc>https://wskyx.github.io/._store/</loc></url>
     <url><loc>https://wskyx.github.io/store/</loc></url>
     <url><loc>https://wskyx.github.io/tags/</loc></url>
@@ -470,5 +469,6 @@
     <url><loc>https://wskyx.github.io/brilliance/</loc></url>
     <url><loc>https://wskyx.github.io/papierz/</loc></url>
     <url><loc>https://wskyx.github.io/pope/</loc></url>
+    <url><loc>https://wskyx.github.io/404.html</loc></url>
     
 </urlset>
