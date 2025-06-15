@@ -1,7 +1,19 @@
 [
     
     {
-        "url": "/myhuman/",
+        "url": "/tension/",
+        "title": "Tension",
+        "date": "15 June 2025 11:46 AM"
+    },
+    
+    {
+        "url": "/cisnienie/",
+        "title": "(PL) Ciśnienie",
+        "date": "15 June 2025 11:45 AM"
+    },
+    
+    {
+        "url": "/human/",
         "title": "My human",
         "date": "9 June 2025 03:04 PM"
     },
