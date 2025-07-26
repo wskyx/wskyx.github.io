@@ -565,8 +565,10 @@
     <url><loc>https://wskyx.github.io/oreo/</loc></url>
     <url><loc>https://wskyx.github.io/sokol/</loc></url>
     <url><loc>https://wskyx.github.io/falcon/</loc></url>
-    <url><loc>https://wskyx.github.io/feed.xml</loc></url>
     <url><loc>https://wskyx.github.io/szybowiec/</loc></url>
     <url><loc>https://wskyx.github.io/glider/</loc></url>
+    <url><loc>https://wskyx.github.io/feed.xml</loc></url>
+    <url><loc>https://wskyx.github.io/karp/</loc></url>
+    <url><loc>https://wskyx.github.io/carp/</loc></url>
     
 </urlset>
