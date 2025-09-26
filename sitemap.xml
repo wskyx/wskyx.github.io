@@ -620,8 +620,10 @@
     <url><loc>https://wskyx.github.io/wishes/</loc></url>
     <url><loc>https://wskyx.github.io/spaliny/</loc></url>
     <url><loc>https://wskyx.github.io/exhausts/</loc></url>
-    <url><loc>https://wskyx.github.io/feed.xml</loc></url>
     <url><loc>https://wskyx.github.io/pocztowy/</loc></url>
     <url><loc>https://wskyx.github.io/postal/</loc></url>
+    <url><loc>https://wskyx.github.io/feed.xml</loc></url>
+    <url><loc>https://wskyx.github.io/kierunki/</loc></url>
+    <url><loc>https://wskyx.github.io/directions/</loc></url>
     
 </urlset>
