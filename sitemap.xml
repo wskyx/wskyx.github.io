@@ -624,8 +624,10 @@
     <url><loc>https://wskyx.github.io/postal/</loc></url>
     <url><loc>https://wskyx.github.io/kierunki/</loc></url>
     <url><loc>https://wskyx.github.io/directions/</loc></url>
-    <url><loc>https://wskyx.github.io/feed.xml</loc></url>
     <url><loc>https://wskyx.github.io/ekran/</loc></url>
     <url><loc>https://wskyx.github.io/screen/</loc></url>
+    <url><loc>https://wskyx.github.io/feed.xml</loc></url>
+    <url><loc>https://wskyx.github.io/narodzony/</loc></url>
+    <url><loc>https://wskyx.github.io/born/</loc></url>
     
 </urlset>
