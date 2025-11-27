@@ -4,7 +4,7 @@
   <subtitle>Mirosław Lesniak, abstract art and poetry.</subtitle>
   <link href="https://wskyx.github.io/feed.xml" rel="self" />
   <link href="https://wskyx.github.io/" />
-  <updated>2025-11-26T19:08:00Z</updated>
+  <updated>2025-11-27T10:36:00Z</updated>
   <id>https://wskyx.github.io/</id>
   <author>
     <name>Mirosław Leśniak</name>
@@ -4679,5 +4679,12 @@
     <updated>2025-11-26T19:08:00Z</updated>
     <id>https://wskyx.github.io/abstract234/</id>
     <content type="html">&lt;a href=&quot;https://wskyx.github.io/assets/img/abstract234.jpg&quot;&gt;&lt;img src=&quot;https://wskyx.github.io/assets/img/scaled_abstract234.jpg&quot;&gt;&lt;/a&gt;&lt;br&gt;And when meteor fell&lt;br&gt;The mice said&lt;br&gt;Our master arrived&lt;br&gt;Then there was magic</content>
+  </entry>
+  <entry>
+    <title>Abstract 234b</title>
+    <link href="https://wskyx.github.io/abstract234b/" />
+    <updated>2025-11-27T10:36:00Z</updated>
+    <id>https://wskyx.github.io/abstract234b/</id>
+    <content type="html">&lt;a href=&quot;https://wskyx.github.io/assets/img/abstract234b.jpg&quot;&gt;&lt;img src=&quot;https://wskyx.github.io/assets/img/scaled_abstract234b.jpg&quot;&gt;&lt;/a&gt;&lt;br&gt;While the colorful fog formed&lt;br&gt;Raiders were awaiting&lt;br&gt;They entangled light&lt;br&gt;The djinn was lurking</content>
   </entry>
 </feed>
