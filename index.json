@@ -1,6 +1,18 @@
 [
     
     {
+        "url": "/everything/",
+        "title": "Everything",
+        "date": "1 December 2025 03:12 PM"
+    },
+    
+    {
+        "url": "/wszystko/",
+        "title": "(PL) Wszystko",
+        "date": "1 December 2025 03:10 PM"
+    },
+    
+    {
         "url": "/journal/",
         "title": "Journal",
         "date": "27 November 2025 07:22 PM"
