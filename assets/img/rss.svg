@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   width="62.728603"
+   height="62.728603"
+   id="RSSicon"
+   viewBox="0 0 125.45721 125.45721"
+   sodipodi:docname="rss.svg"
+   inkscape:version="1.4 (e7c3feb1, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview10"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="1.1490485"
+     inkscape:cx="80.501388"
+     inkscape:cy="-38.292552"
+     inkscape:window-width="1152"
+     inkscape:window-height="717"
+     inkscape:window-x="0"
+     inkscape:window-y="38"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="RSSicon" />
+  <defs
+     id="defs7">
+    <linearGradient
+       x1="30.059999"
+       y1="30.059999"
+       x2="225.94"
+       y2="225.94"
+       id="RSSg"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(0.49006722)">
+      <stop
+         offset="0.0"
+         stop-color="#E3702D"
+         id="stop1" />
+      <stop
+         offset="0.1071"
+         stop-color="#EA7D31"
+         id="stop2" />
+      <stop
+         offset="0.3503"
+         stop-color="#F69537"
+         id="stop3" />
+      <stop
+         offset="0.5"
+         stop-color="#FB9E3A"
+         id="stop4" />
+      <stop
+         offset="0.7016"
+         stop-color="#EA7C31"
+         id="stop5" />
+      <stop
+         offset="0.8866"
+         stop-color="#DE642B"
+         id="stop6" />
+      <stop
+         offset="1.0"
+         stop-color="#D95B29"
+         id="stop7" />
+    </linearGradient>
+  </defs>
+  <rect
+     width="125.45721"
+     height="125.45721"
+     rx="26.953697"
+     ry="26.953697"
+     x="0"
+     y="0"
+     fill="#cc5d15"
+     id="rect7"
+     style="stroke-width:0.490067" />
+  <rect
+     width="120.55653"
+     height="120.55653"
+     rx="24.503361"
+     ry="24.503361"
+     x="2.450336"
+     y="2.450336"
+     fill="#f49c52"
+     id="rect8"
+     style="stroke-width:0.490067" />
+  <rect
+     width="115.65587"
+     height="115.65587"
+     rx="23.033159"
+     ry="23.033159"
+     x="4.900672"
+     y="4.900672"
+     fill="url(#RSSg)"
+     id="rect9"
+     style="fill:url(#RSSg);stroke-width:0.490067" />
+  <circle
+     cx="33.32457"
+     cy="92.622704"
+     r="11.761614"
+     fill="#ffffff"
+     id="circle9"
+     style="stroke-width:0.490067" />
+  <path
+     d="M 78.410754,104.38432 H 61.748469 A 40.185511,40.185511 0 0 0 21.562957,64.198805 V 47.53652 a 56.847797,56.847797 0 0 1 56.847797,56.8478 z"
+     fill="#ffffff"
+     id="path9"
+     style="stroke-width:0.490067" />
+  <path
+     d="M 90.172367,104.38432 A 68.60941,68.60941 0 0 0 21.562957,35.774907 V 18.622554 a 85.76176,85.76176 0 0 1 85.761763,85.761766 z"
+     fill="#ffffff"
+     id="path10"
+     style="stroke-width:0.490067" />
+</svg>
