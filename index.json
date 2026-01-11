@@ -1,6 +1,30 @@
 [
     
     {
+        "url": "/poor/",
+        "title": "Poor",
+        "date": "11 January 2026 08:41 AM"
+    },
+    
+    {
+        "url": "/biedny/",
+        "title": "(PL) Biedny",
+        "date": "11 January 2026 08:40 AM"
+    },
+    
+    {
+        "url": "/megabombs/",
+        "title": "Megabombs",
+        "date": "11 January 2026 08:39 AM"
+    },
+    
+    {
+        "url": "/megabomby/",
+        "title": "(PL) Megabomby",
+        "date": "11 January 2026 08:38 AM"
+    },
+    
+    {
         "url": "/jester/",
         "title": "Jester",
         "date": "9 January 2026 01:00 PM"
