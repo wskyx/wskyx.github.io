@@ -736,12 +736,6 @@
     <url><loc>https://wskyx.github.io/komorogazownik/</loc></url>
     <url><loc>https://wskyx.github.io/gaschambers/</loc></url>
     <url><loc>https://wskyx.github.io/poppyhead/</loc></url>
-    <url><loc>https://wskyx.github.io/404.html</loc></url>
-    <url><loc>https://wskyx.github.io/about/</loc></url>
-    <url><loc>https://wskyx.github.io/</loc></url>
-    <url><loc>https://wskyx.github.io/search/</loc></url>
-    <url><loc>https://wskyx.github.io/store/</loc></url>
-    <url><loc>https://wskyx.github.io/tags/</loc></url>
     <url><loc>https://wskyx.github.io/modlitwa2/</loc></url>
     <url><loc>https://wskyx.github.io/prayer2/</loc></url>
     <url><loc>https://wskyx.github.io/planety/</loc></url>
@@ -750,10 +744,16 @@
     <url><loc>https://wskyx.github.io/emerald/</loc></url>
     <url><loc>https://wskyx.github.io/blazen/</loc></url>
     <url><loc>https://wskyx.github.io/jester/</loc></url>
-    <url><loc>https://wskyx.github.io/feed.xml</loc></url>
+    <url><loc>https://wskyx.github.io/404.html</loc></url>
+    <url><loc>https://wskyx.github.io/search/</loc></url>
+    <url><loc>https://wskyx.github.io/store/</loc></url>
+    <url><loc>https://wskyx.github.io/about/</loc></url>
+    <url><loc>https://wskyx.github.io/</loc></url>
+    <url><loc>https://wskyx.github.io/tags/</loc></url>
     <url><loc>https://wskyx.github.io/megabomby/</loc></url>
     <url><loc>https://wskyx.github.io/megabombs/</loc></url>
     <url><loc>https://wskyx.github.io/biedny/</loc></url>
     <url><loc>https://wskyx.github.io/poor/</loc></url>
+    <url><loc>https://wskyx.github.io/feed.xml</loc></url>
     
 </urlset>
