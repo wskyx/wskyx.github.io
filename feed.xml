@@ -4,7 +4,7 @@
   <subtitle>Mirosław Lesniak, abstract art and poetry.</subtitle>
   <link href="https://wskyx.github.io/feed.xml" rel="self" />
   <link href="https://wskyx.github.io/" />
-  <updated>2026-02-11T13:15:00Z</updated>
+  <updated>2026-02-12T03:46:00Z</updated>
   <id>https://wskyx.github.io/</id>
   <author>
     <name>Mirosław Leśniak</name>
@@ -5750,5 +5750,19 @@
     <updated>2026-02-11T13:15:00Z</updated>
     <id>https://wskyx.github.io/locker/</id>
     <content type="html">&lt;center&gt;&lt;b&gt;&lt;font size=&quot;5&quot;&gt;The Locker Box Computer&lt;br&gt;A concept&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/center&gt;&lt;br&gt;&lt;center&gt;&lt;img src=&quot;https://wskyx.github.io/assets/img/locker.png&quot;&gt;&lt;br&gt;&lt;/center&gt;Since, in general, the technological solutions the society uses are in one way or another insecure, I came up with the idea of the Locker computer. What is The Locker Box? Locker Box Computer is a fully functional, multi-purpose Unix based workstation and a server designed for consumer/business/military market. It is supposed to be able to be an office machine, it will be suitable for web browsing, every day computing, computer graphics or even entertainment. It comes with a promise of never spy on the user and always stand by his side, the promise of loyality. Why BSD Unix? The BSD license allows the code to become proprietary, the most of the OS is supposed to be proprietary in the end for sake of the security of the user and security of the Locker Box Computers intellectual propriety. The Locker computer is supposed to provide maximum data security and user anonymity for the population. It is supposed to take unauthorized access to user data or metadata away from absolutely ANYONE, government or other bandits. The Locker project aims to bring an integrated, out of the box fully functional, universal unix computer unit, similar to other computers but in orientation of end user online security, internal data security, anonymity and privacy standards. The military model could find multiple uses in a conflict situation.&lt;br&gt;&lt;br&gt;Features of the concept:&lt;br&gt;&lt;br&gt;• Full ZFS disk encryption by default, key stored in a TPM chip&lt;br&gt;• Out of the box, preconfigured VPN for all users, all nodes world-wide available after extra payment (which will require a lot of networking infrastructure world wide)&lt;br&gt;• Development of GUI for components like package management, packet filter, jails, filesystem management, service management, VPN management, network, nfs, smb management&lt;br&gt;• When it comes to the hardware platform, I’d base it on ARM or RISC and rather avoid using x86 based platforms&lt;br&gt;• The system will require a process of software and hardware selection and then detailed audit&lt;br&gt;• One of the future features I see is a data kill switch. Lets say in combat condition a machine could be captured and even while being encrypted sent for analysis and possibly exploited for data. A bailout data killswitch could solve this issue. It would require a custom nvme device with a custom controller and a system drivers where predefined chunks of space on nvme memory contain containers that hold encrypted data. When “pulling” the switch, the controller would allow to instantly zero whole areas of the the drive, the predefined areas that hold the containers. That’s one of the ideas for future.</content>
+  </entry>
+  <entry>
+    <title>(PL) Plany</title>
+    <link href="https://wskyx.github.io/plany/" />
+    <updated>2026-02-12T03:45:00Z</updated>
+    <id>https://wskyx.github.io/plany/</id>
+    <content type="html">&lt;p&gt;Nie jestem winny&lt;br&gt;Nie jestem tez niewinny&lt;br&gt;A mam dożywocie&lt;br&gt;Polska to dziwny kraj&lt;br&gt;A sąd papiery mieli&lt;br&gt;Kartki przekłada&lt;br&gt;Kawę spija&lt;br&gt;Protokół sporządza&lt;br&gt;Czas mija&lt;br&gt;Koncept powstaje&lt;br&gt;Człowiek umiera&lt;br&gt;Nikt nie zyskuje&lt;br&gt;A na polu bitwy&lt;br&gt;Plany zaginęły&lt;br&gt;W ręce wroga&lt;br&gt;Się nie dostały&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Plans</title>
+    <link href="https://wskyx.github.io/plans/" />
+    <updated>2026-02-12T03:46:00Z</updated>
+    <id>https://wskyx.github.io/plans/</id>
+    <content type="html">&lt;p&gt;I am not a guilty man&lt;br&gt;Niether not guilty&lt;br&gt;However i do a lifer&lt;br&gt;Poland is a weird country&lt;br&gt;And court grinds papers&lt;br&gt;Juggles sheets&lt;br&gt;Sips coffee&lt;br&gt;Does protocol&lt;br&gt;Time flies&lt;br&gt;Concept assembles&lt;br&gt;A man dies&lt;br&gt;No one profits&lt;br&gt;And on the battlefield&lt;br&gt;Plans dissapeared&lt;br&gt;They didn&#39;t get&lt;br&gt;In hands of enemy&lt;/p&gt;</content>
   </entry>
 </feed>
