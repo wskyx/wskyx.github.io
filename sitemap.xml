@@ -819,7 +819,6 @@
     <url><loc>https://wskyx.github.io/times/</loc></url>
     <url><loc>https://wskyx.github.io/malpka/</loc></url>
     <url><loc>https://wskyx.github.io/monkey/</loc></url>
-    <url><loc>https://wskyx.github.io/locker/</loc></url>
     <url><loc>https://wskyx.github.io/plany/</loc></url>
     <url><loc>https://wskyx.github.io/plans/</loc></url>
     <url><loc>https://wskyx.github.io/skraj/</loc></url>
@@ -836,8 +835,9 @@
     <url><loc>https://wskyx.github.io/salamander/</loc></url>
     <url><loc>https://wskyx.github.io/zamek/</loc></url>
     <url><loc>https://wskyx.github.io/castle/</loc></url>
-    <url><loc>https://wskyx.github.io/feed.xml</loc></url>
     <url><loc>https://wskyx.github.io/pasztet/</loc></url>
     <url><loc>https://wskyx.github.io/pate/</loc></url>
+    <url><loc>https://wskyx.github.io/feed.xml</loc></url>
+    <url><loc>https://wskyx.github.io/locker/</loc></url>
     
 </urlset>
