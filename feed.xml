@@ -4,7 +4,7 @@
   <subtitle>Mirosław Lesniak, abstract art and poetry.</subtitle>
   <link href="https://wskyx.github.io/feed.xml" rel="self" />
   <link href="https://wskyx.github.io/" />
-  <updated>2026-02-26T19:35:00Z</updated>
+  <updated>2026-02-26T19:44:00Z</updated>
   <id>https://wskyx.github.io/</id>
   <author>
     <name>Mirosław Leśniak</name>
@@ -5745,6 +5745,13 @@
     <content type="html">&lt;p&gt;One step&lt;br&gt;Two breaths&lt;br&gt;Three looks&lt;br&gt;Sounds like war&lt;br&gt;Because&lt;br&gt;This does not fit&lt;br&gt;In terms&lt;br&gt;Sketched&lt;br&gt;Because&lt;br&gt;It does not sound&lt;br&gt;Like&lt;br&gt;They said&lt;br&gt;Because I&#39;m not&lt;br&gt;A trained monkey&lt;br&gt;Because I have&lt;br&gt;No diploma&lt;/p&gt;</content>
   </entry>
   <entry>
+    <title>The Locker Box concept</title>
+    <link href="https://wskyx.github.io/locker/" />
+    <updated>2026-02-11T13:15:00Z</updated>
+    <id>https://wskyx.github.io/locker/</id>
+    <content type="html">&lt;center&gt;&lt;b&gt;&lt;font size=&quot;5&quot;&gt;The Locker Box Computer&lt;br&gt;Cruel Computer Designs&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/center&gt;&lt;br&gt;&lt;center&gt;&lt;img src=&quot;https://wskyx.github.io/assets/img/locker.png&quot;&gt;&lt;br&gt;&lt;/center&gt;Since, in general, the technological solutions the society uses are in one way or another insecure, I came up with the idea of the Locker computer. What is The Locker Box? Locker Box Computer is a fully functional, integrated, stable, consistent, multi-purpose Unix based workstation and a server designed for consumer/business/military market. It is supposed to be able to be an office machine, it will be suitable for web browsing, every day computing, computer graphics or even entertainment. It comes with a promise of never spy on the user and always stand by his side, the promise of loyality. Why BSD Unix? The BSD license allows the code to become proprietary, the most of the OS is supposed to be proprietary in the end for sake of the security of the user and security of the Locker Box Computers intellectual propriety. The Locker computer is supposed to provide maximum data security and user anonymity for the population. It is supposed to take unauthorized access to user data or metadata away from absolutely ANYONE, government or other bandits. The Locker project aims to bring an integrated, out of the box fully functional, universal unix computer unit, similar to other computers but in orientation of end user online security, internal data security, anonymity and privacy standards. The military model could find multiple uses in a conflict situation.&lt;br&gt;&lt;br&gt;Features of the concept:&lt;br&gt;&lt;br&gt;• Full ZFS disk encryption by default, key stored in a TPM chip (will require ZFS auth mechanism modification)&lt;br&gt;• Out of the box, preconfigured VPN for all users (Fleet), single web site, all nodes world-wide available after extra payment, full services access, you&#39;re getting, well, servers and whatnot ... (which will require a lot of networking infrastructure world wide, chaining vpns should be possible, will require a fleet of servers, yeah... lets talk about the Fleet... what&#39;s new in Fleet Department...) Fleet is supposed to have a multiplatform client&lt;br&gt;• Development of GUI for components like package management, packet filter, jails, filesystem management, service management, VPN management, network, nfs, smb management&lt;br&gt;• When it comes to the hardware platform, I’d base it on ARM or RISC and rather avoid using x86 based platforms&lt;br&gt;• The system will require a process of software and hardware selection and then detailed audit&lt;br&gt;• System updates get extenssive audits from all sides, security/stability/consistence and additional platform software can be added via future jail gui for sake of system structure&lt;br&gt;• One of the future features I see is a data kill switch. Lets say in combat condition a machine could be captured and even while being encrypted sent for analysis and possibly exploited for data. A bailout data killswitch could solve this issue. It would require a custom nvme device with a custom controller and a system drivers where predefined chunks of space on nvme memory contain containers that hold encrypted data. When “pulling” the switch, the controller would allow to instantly zero whole areas of the the drive, the predefined areas that hold the containers. That method wipes crucial data without destroying the whole system and bricking the device, this way the device can be still in use in meantime. That’s one of the ideas for future.&lt;br&gt;• Before wiper drives get manufactured, software kill switch is possible, kernel rapidly terminates the containers, the container key gets replaced with random key that intantly gets forgotten. Poor man&#39;s solution, however fully doable in software without need of specialized hardware. Yeah, kill switches are cool tools for military/espionage operations but they could also save a regime target from terrible fate in prison&lt;br&gt;• I suspect the first unit to not be too excessively priced due to generic construction of components of the initial design, the Fleet gonna be funded by the Fleet Membership plan&lt;br&gt;• Everyone&#39;s leet until they meet the fleet</content>
+  </entry>
+  <entry>
     <title>(PL) Plany</title>
     <link href="https://wskyx.github.io/plany/" />
     <updated>2026-02-12T03:45:00Z</updated>
@@ -5829,10 +5836,10 @@
     <content type="html">&lt;p&gt;It&#39;s just a laughter&lt;br&gt;It&#39;s just an Innocent laughter&lt;br&gt;Plus eight on the thermometer&lt;br&gt;And in my system application&lt;br&gt;In court verdicts drop&lt;br&gt;Slalom between obstacles&lt;br&gt;Processing plant processes&lt;br&gt;Meta to stinking pate&lt;br&gt;Pate with preservatives&lt;br&gt;So one does not need to&lt;br&gt;Keep it in a fridge&lt;br&gt;Until it is open&lt;br&gt;And i will say one more thing&lt;br&gt;It&#39;s just a laughter&lt;br&gt;It&#39;s just an Innocent laughter&lt;br&gt;Depths of hell are awaiting&lt;/p&gt;</content>
   </entry>
   <entry>
-    <title>Seems like trouble</title>
-    <link href="https://wskyx.github.io/locker/" />
-    <updated>2026-02-26T19:35:00Z</updated>
-    <id>https://wskyx.github.io/locker/</id>
+    <title>Trouble</title>
+    <link href="https://wskyx.github.io/trouble/" />
+    <updated>2026-02-26T19:44:00Z</updated>
+    <id>https://wskyx.github.io/trouble/</id>
     <content type="html">&lt;p&gt;Seems I’m in trouble with some powerful people. It’s hard to describe. However, people in the media seem to be aware of my existence, things I do online and in real life. I have no one to address this problem, everyone just directs me to a shrink and calls it a day, I have no friends, my family calls me crazy. I didn’t do anything bad, aside of casual getting high I am a lawful citizen. Two years back I jumped out a window and broke my arm, since then I have to live in a nursing home, among crazy people, under court coercion. It seems like I can be in danger, seems that they want to either blind or kill me.&lt;br&gt;&lt;br&gt;I have not much more to say, I am a self-educated IT guy and an artist, I want to get a job and live normally, I don’t know why this is happening.&lt;/p&gt;</content>
   </entry>
 </feed>
