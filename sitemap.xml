@@ -826,12 +826,6 @@
     <url><loc>https://wskyx.github.io/edge/</loc></url>
     <url><loc>https://wskyx.github.io/waporyzator/</loc></url>
     <url><loc>https://wskyx.github.io/vaporizer/</loc></url>
-    <url><loc>https://wskyx.github.io/about/</loc></url>
-    <url><loc>https://wskyx.github.io/tags/</loc></url>
-    <url><loc>https://wskyx.github.io/search/</loc></url>
-    <url><loc>https://wskyx.github.io/store/</loc></url>
-    <url><loc>https://wskyx.github.io/404.html</loc></url>
-    <url><loc>https://wskyx.github.io/</loc></url>
     <url><loc>https://wskyx.github.io/salamandra/</loc></url>
     <url><loc>https://wskyx.github.io/salamander/</loc></url>
     <url><loc>https://wskyx.github.io/zamek/</loc></url>
@@ -860,13 +854,19 @@
     <url><loc>https://wskyx.github.io/lifer/</loc></url>
     <url><loc>https://wskyx.github.io/tbone/</loc></url>
     <url><loc>https://wskyx.github.io/korona/</loc></url>
-    <url><loc>https://wskyx.github.io/crown/</loc></url>
     <url><loc>https://wskyx.github.io/szlachetna/</loc></url>
     <url><loc>https://wskyx.github.io/noble/</loc></url>
+    <url><loc>https://wskyx.github.io/crown/</loc></url>
     <url><loc>https://wskyx.github.io/trup/</loc></url>
     <url><loc>https://wskyx.github.io/dead/</loc></url>
     <url><loc>https://wskyx.github.io/urzedasy/</loc></url>
     <url><loc>https://wskyx.github.io/clerks/</loc></url>
+    <url><loc>https://wskyx.github.io/</loc></url>
+    <url><loc>https://wskyx.github.io/search/</loc></url>
+    <url><loc>https://wskyx.github.io/tags/</loc></url>
+    <url><loc>https://wskyx.github.io/404.html</loc></url>
+    <url><loc>https://wskyx.github.io/about/</loc></url>
+    <url><loc>https://wskyx.github.io/store/</loc></url>
     <url><loc>https://wskyx.github.io/feed.xml</loc></url>
     
 </urlset>
