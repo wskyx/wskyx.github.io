@@ -894,8 +894,10 @@
     <url><loc>https://wskyx.github.io/alie/</loc></url>
     <url><loc>https://wskyx.github.io/port/</loc></url>
     <url><loc>https://wskyx.github.io/harbour/</loc></url>
-    <url><loc>https://wskyx.github.io/feed.xml</loc></url>
     <url><loc>https://wskyx.github.io/odbicie/</loc></url>
     <url><loc>https://wskyx.github.io/reflection/</loc></url>
+    <url><loc>https://wskyx.github.io/feed.xml</loc></url>
+    <url><loc>https://wskyx.github.io/przycisk/</loc></url>
+    <url><loc>https://wskyx.github.io/button/</loc></url>
     
 </urlset>
