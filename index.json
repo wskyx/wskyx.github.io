@@ -1,6 +1,18 @@
 [
     
     {
+        "url": "/poems/",
+        "title": "Poems",
+        "date": "18 June 2026 08:46 PM"
+    },
+    
+    {
+        "url": "/wiersze/",
+        "title": "(PL) Wiersze",
+        "date": "18 June 2026 08:45 PM"
+    },
+    
+    {
         "url": "/cutter/",
         "title": "Cutter",
         "date": "17 June 2026 04:42 AM"
