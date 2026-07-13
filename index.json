@@ -1,6 +1,18 @@
 [
     
     {
+        "url": "/artists/",
+        "title": "Artists",
+        "date": "13 July 2026 08:07 PM"
+    },
+    
+    {
+        "url": "/artysci/",
+        "title": "(PL) Artyści",
+        "date": "13 July 2026 08:06 PM"
+    },
+    
+    {
         "url": "/meal/",
         "title": "Meal",
         "date": "13 July 2026 06:21 PM"
