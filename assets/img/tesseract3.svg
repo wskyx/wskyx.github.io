@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="600mm"
-   height="600mm"
-   viewBox="0 0 599.99999 600"
+   width="500mm"
+   height="500mm"
+   viewBox="0 0 499.99999 500"
    version="1.1"
    id="svg1"
    sodipodi:docname="tesseract3.svg"
@@ -24,7 +24,7 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      inkscape:zoom="0.19748248"
-     inkscape:cx="746.9017"
+     inkscape:cx="873.49521"
      inkscape:cy="1162.1284"
      inkscape:window-width="1440"
      inkscape:window-height="829"
@@ -37,17 +37,17 @@
      id="defs1">
     <inkscape:perspective
        sodipodi:type="inkscape:persp3d"
-       inkscape:vp_x="-223.82322 : 310.75089 : 1"
+       inkscape:vp_x="-223.82322 : 210.75089 : 1"
        inkscape:vp_y="0 : 3583.9265 : 0"
-       inkscape:vp_z="558.37323 : 310.75089 : 1"
-       inkscape:persp3d-origin="167.27499 : 244.56247 : 1"
+       inkscape:vp_z="558.37323 : 210.75089 : 1"
+       inkscape:persp3d-origin="167.27499 : 144.56247 : 1"
        id="perspective12" />
     <inkscape:perspective
        sodipodi:type="inkscape:persp3d"
-       inkscape:vp_x="809.19501 : -162.88357 : 1"
+       inkscape:vp_x="766.32201 : -207.95254 : 1"
        inkscape:vp_y="-8952.227 : -2221.6883 : 0"
-       inkscape:vp_z="554.11985 : 1318.0855 : 1"
-       inkscape:persp3d-origin="1125.9095 : 681.49807 : 1"
+       inkscape:vp_z="511.24685 : 1273.0165 : 1"
+       inkscape:persp3d-origin="1083.0365 : 636.4291 : 1"
        id="perspective1" />
     <filter
        inkscape:collect="always"
@@ -71,7 +71,7 @@
     <g
        id="g23"
        style="mix-blend-mode:normal;fill:#000000;fill-rule:nonzero;stroke:none;filter:url(#filter29)"
-       transform="matrix(3.7373891,-1.5474201,1.5474201,3.7373891,-208.53729,57.268314)">
+       transform="matrix(3.7373891,-1.5474201,1.5474201,3.7373891,-251.41029,2.3372808)">
       <path
          d="M 102.25669,124.15009 80.621617,75.181885 131.99759,82.909402 143.99265,130.42765 Z"
          style="fill:#e9e9ff;fill-rule:nonzero;stroke:none;stroke-width:1.08551;stroke-linejoin:round"
@@ -99,7 +99,7 @@
     </g>
     <g
        id="g18"
-       transform="matrix(3.5412371,-1.4662059,1.4662059,3.5412371,-185.09123,72.514257)"
+       transform="matrix(3.5412371,-1.4662059,1.4662059,3.5412371,-227.96423,17.583224)"
        style="mix-blend-mode:color-burn">
       <g
          id="g1"
@@ -132,7 +132,7 @@
     </g>
     <g
        id="g36"
-       transform="matrix(2.663065,-1.1026095,1.1026095,2.663065,-48.050811,146.25038)"
+       transform="matrix(2.663065,-1.1026095,1.1026095,2.663065,-90.923813,91.319347)"
        style="opacity:0.463023;mix-blend-mode:multiply">
       <g
          sodipodi:type="inkscape:box3d"
@@ -146,43 +146,43 @@
            id="path30"
            style="fill:#e9e9ff;fill-rule:nonzero;stroke:none;stroke-width:1.08551;stroke-linejoin:round"
            inkscape:box3dsidetype="11"
-           d="M 100.80911,125.15222 79.174033,76.18401 130.55001,83.911527 142.54508,131.42977 Z"
-           points="79.174033,76.18401 130.55001,83.911527 142.54508,131.42977 100.80911,125.15222 " />
+           d="M 100.80911,125.15222 79.174034,76.184011 130.55001,83.911528 142.54508,131.42977 Z"
+           points="79.174034,76.184011 130.55001,83.911528 142.54508,131.42977 100.80911,125.15222 " />
         <path
            sodipodi:type="inkscape:box3dside"
            id="path31"
            style="fill:#353564;fill-rule:nonzero;stroke:none;stroke-linejoin:round"
            inkscape:box3dsidetype="6"
-           d="m 70.715708,167.96692 47.761012,7.18378 24.06836,-43.72093 -41.73597,-6.27755 z"
-           points="118.47672,175.1507 142.54508,131.42977 100.80911,125.15222 70.715708,167.96692 " />
+           d="m 70.715709,167.96692 47.761011,7.18378 24.06836,-43.72093 -41.73597,-6.27755 z"
+           points="118.47672,175.1507 142.54508,131.42977 100.80911,125.15222 70.715709,167.96692 " />
         <path
            sodipodi:type="inkscape:box3dside"
            id="path32"
            style="fill:#4d4d9f;fill-rule:nonzero;stroke:none;stroke-linejoin:round"
            inkscape:box3dsidetype="5"
-           d="M 70.715708,167.96692 36.874692,121.7038 79.174033,76.18401 100.80911,125.15222 Z"
-           points="36.874692,121.7038 79.174033,76.18401 100.80911,125.15222 70.715708,167.96692 " />
+           d="M 70.715709,167.96692 36.874693,121.7038 79.174034,76.184011 100.80911,125.15222 Z"
+           points="36.874693,121.7038 79.174034,76.184011 100.80911,125.15222 70.715709,167.96692 " />
         <path
            sodipodi:type="inkscape:box3dside"
            id="path33"
            style="fill:#00c1ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.08551;stroke-linejoin:round"
            inkscape:box3dsidetype="13"
-           d="M 118.47672,175.1507 97.695353,130.8519 130.55001,83.911527 142.54508,131.42977 Z"
-           points="97.695353,130.8519 130.55001,83.911527 142.54508,131.42977 118.47672,175.1507 " />
+           d="M 118.47672,175.1507 97.695354,130.8519 130.55001,83.911528 142.54508,131.42977 Z"
+           points="97.695354,130.8519 130.55001,83.911528 142.54508,131.42977 118.47672,175.1507 " />
         <path
            sodipodi:type="inkscape:box3dside"
            id="path34"
            style="fill:#e2f7ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-linejoin:round"
            inkscape:box3dsidetype="14"
-           d="M 36.874692,121.7038 97.695353,130.8519 130.55001,83.911527 79.174033,76.18401 Z"
-           points="97.695353,130.8519 130.55001,83.911527 79.174033,76.18401 36.874692,121.7038 " />
+           d="M 36.874693,121.7038 97.695354,130.8519 130.55001,83.911528 79.174034,76.184011 Z"
+           points="97.695354,130.8519 130.55001,83.911528 79.174034,76.184011 36.874693,121.7038 " />
         <path
            sodipodi:type="inkscape:box3dside"
            id="path35"
            style="fill:#46d3ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-linejoin:round"
            inkscape:box3dsidetype="3"
-           d="m 70.715708,167.96692 -33.841016,-46.26312 60.820661,9.1481 20.781367,44.2988 z"
-           points="36.874692,121.7038 97.695353,130.8519 118.47672,175.1507 70.715708,167.96692 " />
+           d="m 70.715709,167.96692 -33.841016,-46.26312 60.820661,9.1481 20.781366,44.2988 z"
+           points="36.874693,121.7038 97.695354,130.8519 118.47672,175.1507 70.715709,167.96692 " />
       </g>
     </g>
   </g>
